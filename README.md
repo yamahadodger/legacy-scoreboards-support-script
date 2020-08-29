@@ -11,3 +11,5 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 # How to use?
 It's the best to use it with this launch parameter: +exec sbo
+
+Main page link: https://gamebanana.com/scripts/10691
