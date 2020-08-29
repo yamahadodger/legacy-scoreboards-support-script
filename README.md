@@ -8,3 +8,6 @@ You can also disable 3D model entirely by simply moving/deleting sbo_script.cfg 
 
 License: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+# How to use?
+It's the best to use it with this launch parameter: +exec sbo
