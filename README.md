@@ -1,5 +1,5 @@
 # Legacy Scoreboards Support Script
-Fix for HUDs made before Tough Break Update.
+Fix for HUDs (scoreboards precisely) made before Tough Break Update.
 
 What it does exactly?
 Simply disables 3D character model in scoreboard while keeping it on in HUDPlayerClass (when playing, with scoreboard disabled).
