@@ -1,4 +1,4 @@
-# legacy-leaderboards-support-script
+# Legacy Scoreboards Support Script
 Fix for HUDs made before Tough Break Update.
 
 What it does exactly?
