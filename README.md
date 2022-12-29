@@ -13,6 +13,8 @@ To utilize the config entirely, make sure to download all config files.
 
 ~~You can put certain files to [.ignore](https://github.com/yamahadodger/legacy-scoreboards-support-script/tree/master/yamahadodger/sbo/.ignore) folder to exclude them from execution. To only use the standard old scoreboard, you can drag files labeled as `*2.cfg` to [.ignore](https://github.com/yamahadodger/legacy-scoreboards-support-script/tree/master/yamahadodger/sbo/.ignore) folder. After that, you can reload the configuration by using `sbo.reload` to utilize the standard old scoreboard.~~
 
+You can exclude certain files from execution by commenting them out. To load the standard old scoreboard, edit the [sbo.cfg](https://github.com/yamahadodger/legacy-scoreboards-support-script/blob/master/yamahadodger/sbo.cfg)
+
 It's the best to use it with this launch parameter: `+exec yamahadodger/sbo`
 
 **Main page link:** https://gamebanana.com/scripts/10691
