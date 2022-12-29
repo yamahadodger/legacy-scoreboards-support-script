@@ -13,7 +13,7 @@ To utilize the config entirely, make sure to download all config files.
 
 To make this config function, use the following game launch parameter: `+exec yamahadodger/sbo`
 
-You can exclude certain files from execution by commenting them out. To disable 3D model entirely, edit the [sbo.cfg](https://github.com/yamahadodger/legacy-scoreboards-support-script/blob/master/yamahadodger/sbo.cfg) file then comment out the line: `exec yamahadodger/sbo/conf2`
+You can exclude certain files from execution by commenting them out. To disable 3D model entirely, edit the [sbo.cfg](https://github.com/yamahadodger/legacy-scoreboards-support-script/blob/master/yamahadodger/sbo.cfg) file, then comment out the line: `exec yamahadodger/sbo/conf2`
 
 The 3D model should be gone and the config is ready to be reloaded. To reload the config, type in the game console prompt: `sbo.reload`
 
