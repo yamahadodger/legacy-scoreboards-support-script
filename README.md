@@ -12,7 +12,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 # How to use?
 To utilize the config entirely, make sure to download all config files.
 
-You can put certain files to .ignore folder to blacklist them. To only use the standard old scoreboard, you can drag files labeled as `*2.cfg` to .ignore folder. After that, you can reload the configuration by using `sbo.reload`
+You can put certain files to (https://github.com/yamahadodger/legacy-scoreboards-support-script/tree/master/yamahadodger/sbo/.ignore)[.ignore] folder to blacklist them. To only use the standard old scoreboard, you can drag files labeled as `*2.cfg` to .ignore folder. After that, you can reload the configuration by using `sbo.reload`
 
 It's the best to use it with this launch parameter: +exec yamahadodger/sbo
 
