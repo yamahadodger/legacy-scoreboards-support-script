@@ -7,7 +7,6 @@ It simply disables 3D character model in scoreboard while keeping it on in HUDPl
 You can also disable 3D model entirely by following the `How to use?` section below.
 
 **License:** [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-<br/><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png"/></a>
 
 # How to use?
 To utilize the config entirely, make sure to download all config files.
@@ -17,3 +16,4 @@ You can put certain files to [.ignore](https://github.com/yamahadodger/legacy-sc
 It's the best to use it with this launch parameter: +exec yamahadodger/sbo
 
 **Main page link:** https://gamebanana.com/scripts/10691
+<br/><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png"/></a>
