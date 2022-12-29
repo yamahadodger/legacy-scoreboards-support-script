@@ -1,0 +1,11 @@
+// Legacy Scoreboards Support Script (LSSScript) - Advanced
+// Only use with HUDs with player image used in scoreboard.
+
+// if sbo_script has been executed, this formula will be prompted:
+echo"'sbo_script' is present; executing."
+echo"3D HUD features available... TAB action has been changed."
+
+cl_hud_playerclass_use_playermodel 1
+alias +sbo"cl_hud_playerclass_use_playermodel 0;+score"
+alias -sbo"cl_hud_playerclass_use_playermodel 1;-score"
+bind tab +sbo
