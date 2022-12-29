@@ -18,6 +18,6 @@ You can exclude certain files from execution by commenting them out. To disable 
 The 3D model should be gone and the config is ready to be reloaded. To reload the config, type in the game console prompt: `sbo.reload`
 
 # License:
-[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+[**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"/></a>
