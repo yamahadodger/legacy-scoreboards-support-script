@@ -1,7 +1,7 @@
 # Legacy Scoreboards Support Script
 A fix for older HUDs' scoreboards which were made before Tough Break Update.
 
-**What it does exactly?**
+# What it does exactly?
 It simply disables 3D character model in scoreboard while keeping it on in HUDPlayerClass (when playing, with scoreboard disabled).
 
 You can also disable 3D model entirely by following the `How to use?` section below.
