@@ -6,7 +6,7 @@ It simply disables 3D character model in scoreboard while keeping it on in HUDPl
 
 You can also disable 3D model entirely by following the `How to use?` section below.
 
-**License:** None officially applied, Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) [soft official]
+**License:** None officially applied, Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) *(soft officially applied)*
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 # How to use?
