@@ -10,6 +10,6 @@ You can also disable 3D model entirely by simply moving/deleting sbo_script.cfg 
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 # How to use?
-It's the best to use it with this launch parameter: +exec sbo
+It's the best to use it with this launch parameter: +exec yamahadodger/sbo
 
 **Main page link:** https://gamebanana.com/scripts/10691
