@@ -11,13 +11,11 @@ You can also disable 3D model entirely by following the `How to use it?` section
 # How to use it?
 To utilize the config entirely, make sure to download all config files.
 
-To make this config function, use the following game launch parameter: `+exec yamahadodger/sbo`
+To make this config function, use the following game launch parameter: `+exec sbo`
 
-You can exclude certain files from execution by commenting them out. To disable 3D model entirely, edit the [sbo.cfg](https://github.com/yamahadodger/legacy-scoreboards-support-script/blob/master/yamahadodger/sbo.cfg) file, then comment out the line: `exec yamahadodger/sbo/conf2`
+You can exclude certain files from execution by commenting them out. To disable 3D model entirely, edit the [sbo.cfg](https://github.com/yamahadodger/legacy-scoreboards-support-script/blob/master/yamahadodger/sbo.cfg) file, then comment out the line: `exec sbo/conf2`
 
 The 3D model should be gone and the config is ready to be reloaded. To reload the config, type in the game console prompt: `sbo.reload`
 
 # License:
-[**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"/></a>
+This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC0 1.0 Universal <span data-v-a0d4e8a8="" class="icon"><img data-v-a0d4e8a8="" width="20" height="20" src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg"><img data-v-a0d4e8a8="" width="20" height="20" src="https://chooser-beta.creativecommons.org/img/cc-zero.f5450231.svg"></span></a>
